@@ -72,7 +72,6 @@ p, li, a, span {
   color: var(--primary-red);
   letter-spacing: 1px;
   margin-left: 2rem;
-  cursor: pointer;
 }
 .logo img{
   max-height: 4rem;
